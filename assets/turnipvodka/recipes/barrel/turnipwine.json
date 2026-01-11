@@ -1,0 +1,20 @@
+[
+    {
+        "code": "turnipwine",
+        "sealed": true,
+        "sealHours": 96,
+        "ingredients": [
+            {
+                "type": "item",
+                "code": "expandedfoods:vegetablejuiceportion-turnip",
+                "litres": 10
+            }
+        ],
+        "output":
+        {
+            "type": "item",
+            "code": "turnipvodka:turnipwine",
+            "litres": 10
+        }
+    }
+]

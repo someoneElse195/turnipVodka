@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "turnipvodka",
+  "name": "Turnip Vodka",
+  "authors": [
+    "Z"
+  ],
+  "description": "A mod that adds turnip alcohol",
+  "version": "1.0.1",
+  "dependencies": {"expandedfoods": "2.0.0-dev.5"}
+}
